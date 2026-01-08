@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  🧠 Passionate about <b>C++</b>, Web Development & Machine Learning  
+  🧠 Associate Software Engineer aspirant  
+     JavaScript | PHP | MySQL | WordPress  
+     Open Source Contributor | Remote-ready developer
+
   <br/>
   📍 B.Tech IT @ Army Institute of Technology, Pune  
   <br/>
@@ -14,28 +17,25 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ### 🧠 What I Bring to the Table
-- Solving real-world problems using **C++**, AI, and full-stack tools  
-- Strong foundation in **Data Structures**, system logic, and clean UI/UX  
-- Built real-time systems and web utilities through hands-on internships  
-- Constantly improving through learning, building, and shipping
+- Build scalable and secure web solutions using WordPress, PHP, JavaScript, and MySQL
+- Strong foundation in Data Structures, system logic, and writing clean, maintainable code
+- Experience building real-world web utilities and backend features through hands-on projects and internships
+- Comfortable with Git-based workflows, code reviews, and collaborating in remote setups
+- Actively learning and contributing to open-source projects, with a focus on production-quality code
 
 ---
 
-### 📈 GitHub Stats
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sableashish494&show_icons=true&theme=radical" height="150" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sableashish494&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sableashish494&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sableashish494&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sableashish494&theme=tokyonight" />
 </p>
 
 ---
